@@ -1,0 +1,1 @@
+C:\repos\jsonar\netcore-unit-testing\.sonarqube\out\1

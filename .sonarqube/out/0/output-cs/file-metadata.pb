@@ -1,0 +1,10 @@
+W
+NC:\repos\jsonar\netcore-unit-testing\web-api\Contracts\IShoppingCartService.csutf-8[
+RC:\repos\jsonar\netcore-unit-testing\web-api\Controllers\ShoppingCartController.csutf-8K
+BC:\repos\jsonar\netcore-unit-testing\web-api\Model\ShoppingItem.csutf-8@
+7C:\repos\jsonar\netcore-unit-testing\web-api\Program.csutf-8T
+KC:\repos\jsonar\netcore-unit-testing\web-api\Sevices\ShoppingCartService.csutf-8@
+7C:\repos\jsonar\netcore-unit-testing\web-api\Startup.csutf-8[
+PC:\Users\Shree\AppData\Local\Temp\.NETCoreApp,Version=v2.2.AssemblyAttributes.csutf-8k
+`C:\repos\jsonar\netcore-unit-testing\web-api\obj\Debug\netcoreapp2.2\jsonar.RazorAssemblyInfo.csutf-8f
+[C:\repos\jsonar\netcore-unit-testing\web-api\obj\Debug\netcoreapp2.2\jsonar.AssemblyInfo.csutf-8
